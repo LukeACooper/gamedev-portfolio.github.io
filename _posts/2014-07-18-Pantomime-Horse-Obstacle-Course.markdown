@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+date: 2025-09-01
 img: PHOC_SQ.png
 alt: image-alt
 project-date: 2025/26
