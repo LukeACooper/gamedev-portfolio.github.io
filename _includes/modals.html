@@ -39,11 +39,10 @@
                     </div>
                     <div id="collapse-{{ post.modal-id }}-{{ forloop.index }}" class="panel-collapse collapse">
                       <div class="panel-body">
-                        {{ item.content }}
-                        <div class="panel-body">
+                          {{ item.content }}
                           {% if item.image &}
                             <img src="img/portfolio/{{ item.image }}" class="img-responsive" style="margin-bottom: 15px; border-radius: 4px" alt="{{ item.title }}" visual>
-                            {% endif %}
+                          {% endif %}
                         </div>
                       </div>
                     </div>
