@@ -20,9 +20,9 @@
             <p>{{ post.description }}</p>
             {% endif %}
             {% if post.youtube_id %}
-            <div class="embed-responsive embed-responsive-19by9" style="margin-bottom: 20px;">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed.{{post.youtube_id}}" allowfullscreen></iframe>
-            </div>
+              <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 20px;">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ post.youtube_id }}" allowfullscreen></iframe>
+              </div>
             {% endif %}
 
             {% if post.accordions %}
