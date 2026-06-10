@@ -12,8 +12,10 @@ accordions:
   - title: "3D Modelling"
     content: "Designed and modelled the player character meshes; a pantomime horse character costume, worn by two people. This included a constant open communication with the team regarding design choices, physical constraints, and general gameplay feel. The character was made as 3 individual parts, as well as a full-body version for posing."
     image: "phoc_mesh.gif"
-  - title: "Niagara Systems"
+  - title: "Particle Systems"
     content: "Created Niagara Particle Systems for victory fireworks, which can be individually customised to inheret the shape of any skeletal mesh, and a system for the wind VFX on the 'fan' obstacle."
   - title: "Blueprint System"
-    content: "Used Unreal Engine's Blueprints system to create the fireworks display sequence, as well as creating material graphs"  
+    content: "Used Unreal Engine's Blueprints system to create the fireworks display sequence, as well as creating material graphs"
+project_url: "https://store.steampowered.com/app/4560630/Pantomime_Horse_Obstacle_Course/"
+project_button_text: "Wishlist on Steam!"
 ---
