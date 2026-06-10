@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: PTTN.png
+alt: image-alt
+project-date: April 2026
+client: Global Game Jam 2026
+category: Environment Art & Level Design
+description: Paint The Town Neon is a 2D side-scroller I worked on with some fellow students as a submission to Global Game Jam 2026. I was responsible for the environment sprites such as the background, platforms and buildings.
+---
