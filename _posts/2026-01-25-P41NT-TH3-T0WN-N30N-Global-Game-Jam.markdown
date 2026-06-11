@@ -4,7 +4,7 @@ modal-id: 3
 date: 2026-01-25
 img: PTTN.png
 alt: image-alt
-youtube-id: ltol28pslAY
+youtube_id: ltol28pslAY
 project-date: January 2026
 client: Global Game Jam 2026
 category: Environment Art & Level Design
