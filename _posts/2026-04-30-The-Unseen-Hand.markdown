@@ -6,17 +6,13 @@ img: game.png
 alt: image-alt
 category: Comprehensive Creative Technologies Project (Final Year Dissertation Project)
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-accordion:
+accordions:
     - title: "Lostness"
       content: "The Lostness Metric.."
-    #image: "lostness.png"
     - title: "Environment Query System"
       content: "Utilised EQS to determine the best position to spawn diegetic guidance cues"
-    #image: "eqs.gif"
     - title: "Real-Time lostness tracking"
       content: "Translated the 2D lostness metric into a 3D environment, tracking player lostness during gameplay, with the help of state trees "
-        image: "lost.gif"
-project_url: "https://ieuanrhys25.itch.io/p4int-th3-t0wn-n30n"
-project_button_text: "Play for free on Itch!"
+
 
 ---
