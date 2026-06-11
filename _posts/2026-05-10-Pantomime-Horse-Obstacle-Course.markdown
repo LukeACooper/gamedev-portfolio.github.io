@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Pantomime Horse Obstacle Course"
-modal-id: 1
+modal_id: 1
 img: PHOC_SQ.png
 alt: image-alt
 project-date: 2025/26
