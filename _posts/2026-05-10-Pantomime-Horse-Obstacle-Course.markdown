@@ -8,7 +8,7 @@ project-date: 2025/26
 client: Horseplay Interactive - Final Year University Project
 date: 2026-05-10
 category: 3D Modelling, VFX, Level Design, Small Indie Commercial Studio
-description: "Created during the final year of university module 'Commercial Games Development' as a team of ten students. My team and I created a third-person platformer titled: Pantomime Horse Obstacle Course, a chaotic, slapstick interperetation of a pantomime horse costume, worn by two characters, each controlled by individual players, who must complete 'obstacle courses' to reach the finish line. This module required our team to create a game throughout the duration of our final year. Alongside the assignment specifications, our team went beyond the requirements, and have been working towards our full launch on Steam, and continue to release further content in the future. It is expected to launch early June 2026, and is available to Wishlist now! Click the link at the bottom of this post to visit the Steam page."
+description: "Created during the final year of university module 'Commercial Games Development' as a team of ten students. My team and I created a third-person platformer titled: Pantomime Horse Obstacle Course, a chaotic, slapstick interperetation of a pantomime horse costume, worn by two characters, each controlled by individual players, who must complete 'obstacle courses' to reach the finish line. This module required our team to create a game throughout the duration of our final year. Alongside the assignment specifications, our team went beyond the requirements, and it is now available for free on Steam - Click the link at the bottom of this post to visit the Steam page."
 youtube_id: sTJ_8hYbnhg
 accordions:
   - title: "3D Modelling Pipeline"
@@ -18,5 +18,5 @@ accordions:
     content: "Created Niagara Particle Systems for victory fireworks, which can be individually customised to inheret the shape of any skeletal mesh, and a system for the wind VFX on the 'fan' obstacle.Using Unreal Engine's Blueprints system, I created a fireworks display sequence, which plays on level completion, both at the finish line and in the podium scene.This was created using the Niagara particle systems above, spelling out the acronym of the game's title - 'PHOC'."
     image1: fireworksGraph.png
 project_url: "https://store.steampowered.com/app/4560630/Pantomime_Horse_Obstacle_Course/"
-project_button_text: "Wishlist on Steam!"
+project_button_text: "Play FREE on Steam!"
 ---

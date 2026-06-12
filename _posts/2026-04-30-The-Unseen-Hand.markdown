@@ -16,5 +16,4 @@ accordions:
       image2: EQS.png
     - title: "HISM-Based Hexagonal Tiles"
       content: "I created a simple hexagonal mesh in Maya and UV mapped them to apply materials to the top face for debugging purposes in-engine. It can be tiled, which I used a mathematical blueprint to translate the hexagon tiles to fit together without any gaps or overlap. To ensure the system remained optimised, I used the 'HISM' (Hierarchical Instanced Static Mesh) system in unreal engine, which reduces the overall triangle count, and therefore reducing memory usage overall."
-
 ---
