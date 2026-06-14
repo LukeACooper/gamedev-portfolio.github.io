@@ -16,6 +16,7 @@ accordions:
     image: "phoc_mesh.gif"
   - title: "Niagara Systems"
     content: "Created Niagara Particle Systems for victory fireworks, which can be individually customised to inheret the shape of any skeletal mesh, and a system for the wind VFX on the 'fan' obstacle.Using Unreal Engine's Blueprints system, I created a fireworks display sequence, which plays on level completion, both at the finish line and in the podium scene.This was created using the Niagara particle systems above, spelling out the acronym of the game's title - 'PHOC'."
+    image: fireworks.gif
     image1: fireworksGraph.png
 project_url: "https://store.steampowered.com/app/4560630/Pantomime_Horse_Obstacle_Course/"
 project_button_text: "Play FREE on Steam!"
